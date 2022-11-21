@@ -1,0 +1,57 @@
+body{
+    margin: 0;
+}
+nav{
+    background-color: yellow;
+}
+h1{
+
+
+    color: red;
+    width: 100px;
+
+}
+.flex-container{
+    display: flex;
+}
+li{
+    display: inline;
+    margin-left: 20%;
+}
+a{
+    color: blue;
+    text-decoration: none;
+    font-size: 30px;
+    font-weight: 700px;
+    
+
+
+
+}
+a:hover{
+    background-color: aliceblue;
+    color: black;
+}
+.flex-item{
+
+    flex: 20%;
+    background-color: aqua;
+
+}
+.flex-item2{
+    flex: 80%;
+}
+ul{
+    list-style-type: none;
+}
+li{
+    display: inline;
+    margin-left: 40px;
+}
+.slider{
+    height: 900px;
+    background-image:url('../iamges/goku1.jpg') ;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
